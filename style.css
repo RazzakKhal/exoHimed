@@ -1,0 +1,32 @@
+#chrono {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid rgba(0, 0, 0);
+  border-radius: 8px;
+  font-family: "Orbitron", sans-serif;
+}
+.el-minutes,
+.el-seconds,
+.el-tenthOfSeconds,
+.reset {
+  text-align: center;
+  width: 80px;
+  padding: 8px;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.el-minutes {
+  border-right: 2px solid rgba(0, 0, 0);
+}
+.el-tenthOfSeconds {
+  border-left: 2px solid rgba(0, 0, 0);
+}
+
+.reset {
+  position: absolute;
+  bottom: -70px;
+  width: 100px;
+}
