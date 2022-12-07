@@ -56,3 +56,4 @@ Créer un chronomètre avec JS
     - Utiliser la fonction setInterval()\* permet de répéter le code de la méthode changeTheTime tous les x 1/1000 de secondes.
 
       (\*) [setInterval() method](https://developer.mozilla.org/en-US/docs/Web/API/setInterval)
+# exoHimed
